@@ -1,0 +1,39 @@
+#main-header {
+    width: 100%;
+    /* background-color: chocolate; */
+    height: 7vh;
+    font-family: "Montserrat", sans-serif;
+
+}
+
+#main-header nav {
+    display: inline-block;
+    font-size: 14px;
+    width: 50%;
+    padding-top: 20px;
+    float: left;
+}
+
+#icons-container {
+    display: inline-block;
+    width: 30%;
+    float: right;
+    padding-top: 14px;
+}
+
+#icons-container img {
+    height: 30px;
+    display: inline-block;   
+    margin: 0 15px;
+}
+
+#icons-container span {
+    display: inline-block;
+    height: 30px;
+    background-color: brown;
+    line-height: 300%;
+}
+
+#search-icon {
+    margin-left: 20%;
+}
